@@ -21,5 +21,5 @@ $mailHeaders = "Name: " . $userName .
 	}
 
 	//redirect
-	header("Location:thankyou.php");
+	header("Location:thankyou.html");
 ?>
